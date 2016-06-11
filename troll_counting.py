@@ -33,7 +33,7 @@ Tests:
 # Use this to test your solution. Don't edit it!
 import doctest
 def run_tests():
-    doctest.testmod()
+    doctest.testmod(verbose=True)
 
 
 # Edit this function:
