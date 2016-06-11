@@ -8,8 +8,7 @@ students.
 
 - [ ] Complete the troll_count function according to the instructions.
 
-To check your code works, you can run it and then call `run_tests()`. If
-you get no output, it means all your code works!
+To check your code works, you can run it and then call `run_tests()`.
 
 ## Notes
 
