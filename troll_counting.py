@@ -9,7 +9,7 @@ Problem:
     Where "many" is any number between 3 and 8, and "lots" is any number bigger than 8.
 
     The troll_count function takes an integer in, and should return a string containing
-    the appropriate troll equivalent. Make sure it RETURNS the annswer rather than printing it.
+    the appropriate troll equivalent. Make sure it RETURNS the answer rather than printing it.
 
 Tests:
 
